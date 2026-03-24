@@ -102,7 +102,7 @@ We evaluate selective unlearning under different forgetting settings:
 ## 📁 Repository Structure
 
 
----
+```text
 ├── Caltech101/
 ├── Caltech256/
 ├── CIFAR100/
